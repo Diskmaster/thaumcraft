@@ -796,7 +796,7 @@ tc.research_page.GOGGLES.1=Building on the basic principles of the Thaumometer, 
 #
 tc.research_name.THAUMIUM=Magical Metallurgy
 tc.research_text.THAUMIUM=Where metals meet magic
-tc.research_page.THAUMIUM.1=Metals have proven to be quite easy to manipulate via thaumaturgical principles. Your first experiments have led to discovery of Thaumium.<BR>Thaumium is the result of infusing base metals with raw magical energy. The result is a metal harder than iron with the ability to accept enchantments beyond that which iron is normally capable of.<BR>A metal such as this has many applications in the crafting of more advanced thaumaturgical devices.<BR>It can also be used to craft tools, arms and armour in a crafting table using the normal recipes.
+tc.research_page.THAUMIUM.1=Metals have proven to be quite easy to manipulate via thaumaturgical principles. Your first experiments have led to discovery of Thaumium.<BR>Thaumium is the result of infusing base metals with raw magical energy. The result is a metal harder than iron with the ability to accept enchantments beyond that which iron is normally capable of.<BR>A metal such as this has many applications in the crafting of more advanced thaumaturgical devices.<BR>It can also be used to craft tools, arms and armor in a crafting table using the normal recipes.
 #
 tc.research_name.NITOR=Nitor
 tc.research_text.NITOR=Mystical Flame
