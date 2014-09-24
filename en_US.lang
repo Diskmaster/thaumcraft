@@ -1475,7 +1475,7 @@ tc.research_page.WARP.3=§nFlux§r<BR>If Warp is the mental manifestation of mag
 #
 tc.research_name.BATHSALTS=Purifying Bath Salts
 tc.research_text.BATHSALTS=Stress relief for the mind
-tc.research_page.BATHSALTS.1=Warp is a danger for even the most careful of thaumaturges. For those that have done a bit too much dabbling Warp effects are probably more than just an annoyance. Purifying Bath Salts help with that.<BR>Simply tossing these salts into water will turn the water into a silvery, purifying liquid that sooths away the stresses of the day and brings temporary relief from the effects of Warp. It should be noted however the the more warp a thaumaturge suffers from, the shorter the duration of this protection.<BR>The salts are quite fragile and will soon dissolve if tossed around haphazardly. 
+tc.research_page.BATHSALTS.1=Warp is a danger for even the most careful of thaumaturges. For those that have done a bit too much dabbling Warp effects are probably more than just an annoyance. Purifying Bath Salts help with that.<BR>Simply tossing these salts into water will turn the water into a silvery, purifying liquid that soothes away the stresses of the day and brings temporary relief from the effects of Warp. It should be noted however the the more warp a thaumaturge suffers from, the shorter the duration of this protection.<BR>The salts are quite fragile and will soon dissolve if tossed around haphazardly. 
 #
 tc.research_name.LIQUIDDEATH=Liquid Death
 tc.research_text.LIQUIDDEATH=For external use only
@@ -1488,7 +1488,7 @@ tc.research_page.ARMORFORTRESS.2=piece of this armor worn increases the overall 
 #
 tc.research_name.HELMGOGGLES=Helm of Revealing
 tc.research_text.HELMGOGGLES=Thaumium Fortress Helm Upgrade
-tc.research_page.HELMGOGGLES.1=Usually a thaumaturge needs to choose between protection or utility when out and about. Not anymore!<BR>This modifies a Thaumium Fortress Helm to give you all the functionality of Goggles of Revealing. It does however not give the vis discount the goggles usually do.<BR>A helm can have this upgrade along with face plates. 
+tc.research_page.HELMGOGGLES.1=Usually a thaumaturge needs to choose between protection or utility when out and about. Not any more!<BR>This modifies a Thaumium Fortress Helm to give you all the functionality of Goggles of Revealing. It does however not give the vis discount the goggles usually do.<BR>A helm can have this upgrade along with face plates. 
 #
 tc.research_name.MASKGRINNINGDEVIL=Grinning Devil Faceplate
 tc.research_text.MASKGRINNINGDEVIL=Thaumium Fortress Helm Upgrade
@@ -1522,5 +1522,5 @@ tc.research_page.ARMORVOIDFORTRESS.1=A truly enlightened thaumaturge realizes th
 #
 tc.research_name.CAP_void=Voidmetal Wand Caps
 tc.research_text.CAP_void=Power from beyond
-tc.research_page.CAP_void.1=Crafting wand caps from Voidmetal seems counterintuitive since it seems to be highly resistant to magic, but counterintuitive is where you live now.<BR>Your gamble payed off. The metal itself may be resistant to magic, but it channels with surprising ease. The magic does seem §ostrange§r somehow, but it is probably just your imagination.
+tc.research_page.CAP_void.1=Crafting wand caps from Voidmetal seems counter-intuitive since it seems to be highly resistant to magic, but counter-intuitive is where you live now.<BR>Your gamble paid off. The metal itself may be resistant to magic, but it channels with surprising ease. The magic does seem §ostrange§r somehow, but it is probably just your imagination.
 #
